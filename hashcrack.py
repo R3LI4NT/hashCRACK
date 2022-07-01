@@ -29,6 +29,7 @@ parse.add_argument("--sha3_384","--sha3-384",help="SHA3-384 hash")
 parse.add_argument("--sha3_512","--sha3-512",help="SHA3-512 hash")
 ########## Wordlist
 parse.add_argument("-w","--wordlist",help="Wordlist")
+########## Output
 parse.add_argument("-o", "--output",default="stdout",required=False, dest='output', help="Directs the output to a name of your choice")
 parse = parse.parse_args()
 
