@@ -25,3 +25,8 @@
 | SHA3-384  | --sha3-384  |
 | SHA3-512  | --sha3-512  |
 
+### Input and Output
+| DESCRIPTION | COMMAND |
+| Wordlist for brute force attack | -w / --wordlist |
+| Output file (optional) | -o / --output |
+| Request help | -h / --help |
