@@ -34,6 +34,7 @@
 
 `EXAMPLE:` **MD5 hash Cracking**
 
-> python3 hashcrack.py --md5 <hash> --wordlist <wordlist> --output <filename>
-
+```python
+python3 hashcrack.py --md5 <hash> --wordlist <wordlist> --output <filename>
+```
 ![example](https://user-images.githubusercontent.com/75953873/176811897-461b7e79-cbf4-45a0-a3bb-e608cf17cc82.png)
