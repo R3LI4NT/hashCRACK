@@ -9,6 +9,8 @@
 > git clone https://github.com/R3LI4NT/hashCrack
 
 > cd hashCrack
+
+> pip3 install -r requirements.txt
 ```
 
 ## Usage
