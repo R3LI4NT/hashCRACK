@@ -31,3 +31,5 @@
 | Wordlist for brute force attack | -w / --wordlist |
 | Output file (optional) | -o / --output |
 | Request help | -h / --help |
+
+**EXAMPLE** `MD5 Cracking`
