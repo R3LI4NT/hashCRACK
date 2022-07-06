@@ -31,12 +31,12 @@
 | SHA3-512  | --sha3-512  |
 
 ### Others
-| DESCRIPTION | COMMAND |
+| COMMAND | DESCRIPTION |
 | ------------- | ------------- |
-| Wordlist for brute force attack | -w / --wordlist |
-| Output file (optional) | -o / --output |
-| List of supported hashes | --hashes |
-| Request help | -h / --help |
+| -w / --wordlist | Wordlist for brute force attack |
+| -o / --output | Output file (optional) |
+| --hashes | List of supported hashes |
+| -h / --help | Request help |
 
 `EXAMPLE:` **MD5 hash Cracking**
 
