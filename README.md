@@ -17,18 +17,18 @@
 ```
 
 ## Usage
-| HASH | COMMAND |
+| COMMAND | HASH |
 | ------------- | ------------- |
-| MD5 | --md5  |
-| SHA-1  | --sha1  |
-| SHA-224  | --sha224  |
-| SHA-256  | --sha256  |
-| SHA-384  | --sha384  |
-| SHA-512  | --sha512  |
-| SHA3-224  | --sha3-224  |
-| SHA3-256  | --sha3-256  |
-| SHA3-384  | --sha3-384  |
-| SHA3-512  | --sha3-512  |
+| --md5 | MD5  |
+| --sha1  | SHA-1  |
+| --sha224  | SHA-224  |
+| --sha256  | SHA-256  |
+| --sha384  | SHA-384  |
+| --sha512  | SHA-512  |
+| --sha3-224  | SHA3-224  |
+| --sha3-256  | SHA3-256  |
+| --sha3-384  | SHA3-384  |
+| --sha3-512  | SHA3-512  |
 
 ### Others
 | COMMAND | DESCRIPTION |
