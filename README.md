@@ -9,7 +9,7 @@
 
 ## Insallation
 ```
-> git clone https://github.com/R3LI4NT/hashCrack
+> git clone https://github.com/R3LI4NT/hashCRACK
 
 > cd hashCrack
 
