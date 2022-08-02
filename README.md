@@ -45,6 +45,8 @@ python3 hashcrack.py --md5 <hash> --wordlist <wordlist> --output <filename>
 ```
 ![example](https://user-images.githubusercontent.com/75953873/176811897-461b7e79-cbf4-45a0-a3bb-e608cf17cc82.png)
 
-## Tested on TERMUX
+</br>
+
+### Tested on TERMUX
 
 ![termux](https://user-images.githubusercontent.com/75953873/182391371-8c6cbaa9-88d7-4a31-ba29-1a9e5a12fa16.jpg)
