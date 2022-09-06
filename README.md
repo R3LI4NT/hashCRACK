@@ -7,7 +7,7 @@
 ![Supportedhashes](https://user-images.githubusercontent.com/75953873/176814598-71f2025a-77b6-46c6-828b-3967d44e22b4.png)
 
 
-## Insallation
+## Instalación
 ```
 > git clone https://github.com/R3LI4NT/hashCRACK
 
