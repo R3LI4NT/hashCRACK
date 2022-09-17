@@ -7,7 +7,7 @@
 ![Supportedhashes](https://user-images.githubusercontent.com/75953873/176814598-71f2025a-77b6-46c6-828b-3967d44e22b4.png)
 
 
-## Instalación
+## Instalación:
 ```
 > git clone https://github.com/R3LI4NT/hashCRACK
 
@@ -16,7 +16,7 @@
 > pip3 install -r requirements.txt
 ```
 
-## Uso
+## Uso:
 | COMMAND | HASH |
 | ------------- | ------------- |
 | --md5 | MD5  |
@@ -30,7 +30,7 @@
 | --sha3-384  | SHA3-384  |
 | --sha3-512  | SHA3-512  |
 
-### Otros
+### Otros:
 | COMMAND | DESCRIPTION |
 | ------------- | ------------- |
 | -w / --wordlist | Wordlist for brute force attack |
@@ -47,6 +47,6 @@ python3 hashcrack.py --md5 <hash> --wordlist <wordlist> --output <filename>
 
 </br>
 
-### Testeado en Termux
+### Testeado en Termux:
 
 ![termux](https://user-images.githubusercontent.com/75953873/182391371-8c6cbaa9-88d7-4a31-ba29-1a9e5a12fa16.jpg)
